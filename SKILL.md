@@ -1,6 +1,10 @@
 ---
 name: jwan-tech-food-launch-poster
 description: Design minimal foldable-device-style launch posters for local foods using product-specific packaging and suffix logic.
+metadata:
+  version: 1.0.0
+  author: Jwan
+  license: MIT
 ---
 
 # Jwan Tech Food Launch Poster
